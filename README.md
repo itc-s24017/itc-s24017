@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+ITカレッジ沖縄 ITスペシャリスト科
+玉寄 結大
+2006/01/31生まれ
+
+使ったことのある言語
+・Python・Java・Kotlin
+
+趣味
+・アニメ(Fate、ヒロアカ、ばっどがーる...)
+・ゲーム(FGO、原神、崩壊スターレイル...)
+
+目標
+役に立つ便利なアプリを作りたい(webアプリでもいい)
+
 <!--
 **itc-s24017/itc-s24017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
