@@ -22,7 +22,7 @@ ITスペシャリスト科  (27卒)
 *****
 
 ### 連絡先  
-[![Slack](./Downloads/Slack_icon_2019.svg.png)](https://app.slack.com/client/T09C053QQ/D06SZB0HL3W)
+[![Slack](./picture/Slack_icon_2019.svg.png)](https://app.slack.com/client/T09C053QQ/D06SZB0HL3W)
 
 
 
