@@ -31,6 +31,8 @@ ITスペシャリスト科  (27卒)
 [Reactlesson05](https://github.com/itc-s24017/ReactLesson05)  
 [Pbl-2025](https://github.com/itc-s24017/Pbl-2025)  
 [進級製作](https://github.com/itc-s24017/WebBuckEnd)  
+簡単な説明...一局限定の麻雀ゲーム  
+現在取り組んでいる箇所...対戦画面  
 *****
 (個人作成)  
 [紅茶紹介サイト](https://github.com/itc-s24017/wfe_tea)  
