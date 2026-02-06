@@ -32,12 +32,12 @@ ITスペシャリスト科  (27卒)
 [Pbl-2025](https://github.com/itc-s24017/Pbl-2025)  
 [進級製作](https://github.com/itc-s24017/WebBuckEnd)  
 *****
-(個人作成)
+(個人作成)  
 [紅茶紹介サイト](https://github.com/itc-s24017/wfe_tea)  
 *****
 
 ### 使ったことのある言語  
-・Python・Java・Kotlin・css・HTML  
+・Python・Java・Kotlin・HTML・css・Typescript  
 *****
 
 ### 連絡先  
